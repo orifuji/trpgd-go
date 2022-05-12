@@ -1,5 +1,3 @@
-# my-dev-container-of-go
+# trpgd-go
 
-This is my template of go project including settings about virtual environment built with dev container.
-
-This repo based on https://github.com/microsoft/vscode-remote-try-go .
+[wip] my trpg dice tool set
